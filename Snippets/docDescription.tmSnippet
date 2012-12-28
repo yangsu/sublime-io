@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>docSlot("${1:slotName}", "${2:documentation}")</string>
+	<string>docDescription("${1:Does really neat stuff}")</string>
 	<key>name</key>
-	<string>docSlot</string>
+	<string>docDescription</string>
 	<key>scope</key>
 	<string>source.io</string>
 	<key>tabTrigger</key>
 	<string>doc</string>
 	<key>uuid</key>
-	<string>7BEB3C8C-641B-4BEA-9F92-6594A8D448DD</string>
+	<string>6AB10770-A6F4-4EC0-9C0F-12C4DEC36DE8</string>
 </dict>
 </plist>

@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>docSlot("${1:slotName}", "${2:documentation}")</string>
+	<string>bitwiseAnd($0)</string>
 	<key>name</key>
-	<string>docSlot</string>
+	<string>bitwiseAnd</string>
 	<key>scope</key>
 	<string>source.io</string>
 	<key>tabTrigger</key>
-	<string>doc</string>
+	<string>bit</string>
 	<key>uuid</key>
-	<string>7BEB3C8C-641B-4BEA-9F92-6594A8D448DD</string>
+	<string>8B212373-5DB1-4144-885C-C6F7BC43E8BA</string>
 </dict>
 </plist>
