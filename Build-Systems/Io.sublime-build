@@ -1,0 +1,4 @@
+{
+  "cmd": ["io","$file"],
+  "selector": "source.io"
+}
