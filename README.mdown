@@ -1,2 +1,2 @@
 # Io Language
-Sublime Text 2 Package for Io Language. Based on TextMate's [io.tmbundle](https://github.com/textmate/io.tmbundle)
+Sublime Text Package for Io Language. Based on TextMate's [io.tmbundle](https://github.com/textmate/io.tmbundle)
