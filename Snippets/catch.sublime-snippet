@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[catch(${1:Exception},
+	$0
+)]]></content>
+  <description>catch</description>
+  <scope>source.io</scope>
+  <tabTrigger>cat</tabTrigger>
+</snippet>

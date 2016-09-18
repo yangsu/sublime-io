@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[${1:name} := Object clone do(
+	$0
+)]]></content>
+  <description>Object clone do</description>
+  <scope>source.io</scope>
+  <tabTrigger>ocdo</tabTrigger>
+</snippet>

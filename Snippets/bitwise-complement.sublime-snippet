@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[bitwiseComplement($0)]]></content>
+  <description>bitwiseComplement</description>
+  <scope>source.io</scope>
+  <tabTrigger>bit</tabTrigger>
+</snippet>

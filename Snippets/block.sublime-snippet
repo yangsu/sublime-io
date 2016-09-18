@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[${1:name} := block(
+	$0
+)]]></content>
+  <description>block</description>
+  <scope>source.io</scope>
+  <tabTrigger>blk</tabTrigger>
+</snippet>

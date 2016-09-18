@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[if(
+	$0
+)]]></content>
+  <description>if</description>
+  <scope>source.io</scope>
+  <tabTrigger>if</tabTrigger>
+</snippet>

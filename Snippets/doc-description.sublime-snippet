@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[docDescription("${1:Does really neat stuff}")]]></content>
+  <description>docDescription</description>
+  <scope>source.io</scope>
+  <tabTrigger>doc</tabTrigger>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[ancestorWithSlot("${1:someSlot}")]]></content>
+  <description>ancestorWithSlot</description>
+  <scope>source.io</scope>
+  <tabTrigger>ancestor</tabTrigger>
+</snippet>

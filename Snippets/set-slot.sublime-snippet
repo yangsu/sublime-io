@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[setSlot("${1:name}", ${2:value})]]></content>
+  <description>setSlot</description>
+  <scope>source.io</scope>
+  <tabTrigger>ss</tabTrigger>
+</snippet>

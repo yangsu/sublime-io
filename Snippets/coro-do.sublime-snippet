@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[coroDo(${1:someMessage})]]></content>
+  <description>coroDo</description>
+  <scope>source.io</scope>
+  <tabTrigger>coro</tabTrigger>
+</snippet>

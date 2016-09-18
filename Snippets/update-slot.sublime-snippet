@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[updateSlot("${1:name}", ${2:value})]]></content>
+  <description>updateSlot</description>
+  <scope>source.io</scope>
+  <tabTrigger>us</tabTrigger>
+</snippet>

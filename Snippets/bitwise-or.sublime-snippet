@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[bitwiseOr($0)]]></content>
+  <description>bitwiseOr</description>
+  <scope>source.io</scope>
+  <tabTrigger>bit</tabTrigger>
+</snippet>

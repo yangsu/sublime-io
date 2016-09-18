@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[${1:Something}Test := ${2:UnitTest} clone do(
+	$0
+)]]></content>
+  <description>UnitTest</description>
+  <scope>source.io</scope>
+  <tabTrigger>ut</tabTrigger>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[do(
+	$0
+)]]></content>
+  <description>do</description>
+  <scope>source.io</scope>
+  <tabTrigger>do</tabTrigger>
+</snippet>

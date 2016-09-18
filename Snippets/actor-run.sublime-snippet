@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[actorRun]]></content>
+  <description>actorRun</description>
+  <scope>source.io</scope>
+  <tabTrigger>actor</tabTrigger>
+</snippet>

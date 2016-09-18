@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[between(${1:0}, ${2:0})]]></content>
+  <description>between</description>
+  <scope>source.io</scope>
+  <tabTrigger>bet</tabTrigger>
+</snippet>

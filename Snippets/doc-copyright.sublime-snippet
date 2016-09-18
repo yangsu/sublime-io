@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[docCopyright("${1:Your Name}", 2006)]]></content>
+  <description>docCopyright</description>
+  <scope>source.io</scope>
+  <tabTrigger>doc</tabTrigger>
+</snippet>

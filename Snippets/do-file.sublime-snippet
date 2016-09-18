@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[doFile("${1:someFile.io}")]]></content>
+  <description>doFile</description>
+  <scope>source.io</scope>
+  <tabTrigger>doF</tabTrigger>
+</snippet>

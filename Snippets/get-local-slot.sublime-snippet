@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[getLocalSlot("${1:name}")]]></content>
+  <description>getLocalSlot</description>
+  <scope>source.io</scope>
+  <tabTrigger>get</tabTrigger>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[bitwiseAnd($0)]]></content>
+  <description>bitwiseAnd</description>
+  <scope>source.io</scope>
+  <tabTrigger>bit</tabTrigger>
+</snippet>

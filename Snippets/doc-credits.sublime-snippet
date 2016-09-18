@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[docCredits("")]]></content>
+  <description>docCredits</description>
+  <scope>source.io</scope>
+  <tabTrigger>doc</tabTrigger>
+</snippet>

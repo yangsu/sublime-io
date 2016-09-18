@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[test${1:SomeFeature} := method(
+	$0
+)]]></content>
+  <description>testMethod</description>
+  <scope>source.io</scope>
+  <tabTrigger>ts</tabTrigger>
+</snippet>

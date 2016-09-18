@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[return(${1:val})]]></content>
+  <description>return</description>
+  <scope>source.io</scope>
+  <tabTrigger>ret</tabTrigger>
+</snippet>

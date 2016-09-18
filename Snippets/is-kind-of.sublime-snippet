@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[isKindOf(${1:AnObject})]]></content>
+  <description>isKindOf</description>
+  <scope>source.io</scope>
+  <tabTrigger>isK</tabTrigger>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[asSimpleString]]></content>
+  <description>asSimpleString</description>
+  <scope>source.io</scope>
+  <tabTrigger>asSim</tabTrigger>
+</snippet>

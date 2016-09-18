@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[${1:${2:newValue} := ${3:Object} }clone do(
+	$0
+)]]></content>
+  <description>clone do</description>
+  <scope>source.io</scope>
+  <tabTrigger>cdo</tabTrigger>
+</snippet>

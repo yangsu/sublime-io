@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+	$0
+]]></content>
+  <keyEquivalent>
+</keyEquivalent>
+  <description>Special: Return Inside Empty Parenthesis</description>
+  <scope>source.io meta.empty-parenthesis.io, source.io meta.comma-parenthesis.io</scope>
+</snippet>

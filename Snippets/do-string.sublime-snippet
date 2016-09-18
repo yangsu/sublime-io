@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[doString("${1:code}")]]></content>
+  <description>doString</description>
+  <scope>source.io</scope>
+  <tabTrigger>doS</tabTrigger>
+</snippet>

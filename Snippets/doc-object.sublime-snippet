@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[docObject("${1:YourObject}")]]></content>
+  <description>docObject</description>
+  <scope>source.io</scope>
+  <tabTrigger>doc</tabTrigger>
+</snippet>

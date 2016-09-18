@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[asString]]></content>
+  <description>asString</description>
+  <scope>source.io</scope>
+  <tabTrigger>asS</tabTrigger>
+</snippet>

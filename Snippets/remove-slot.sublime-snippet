@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[removeSlot("${1:name}")]]></content>
+  <description>removeSlot</description>
+  <scope>source.io</scope>
+  <tabTrigger>removeS</tabTrigger>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[asNumber]]></content>
+  <description>asNumber</description>
+  <scope>source.io</scope>
+  <tabTrigger>asN</tabTrigger>
+</snippet>

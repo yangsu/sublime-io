@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[(${1:header,}
+	${2:body}
+)$0]]></content>
+  <keyEquivalent>@(</keyEquivalent>
+  <description>Indented Bracketed Line</description>
+  <scope>source.io</scope>
+  <tabTrigger>(</tabTrigger>
+</snippet>

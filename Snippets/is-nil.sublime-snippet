@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[isNil]]></content>
+  <description>isNil</description>
+  <scope>source.io</scope>
+  <tabTrigger>isN</tabTrigger>
+</snippet>

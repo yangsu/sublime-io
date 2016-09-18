@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[${1:methodName} := method(${2:args,}
+	$0
+)]]></content>
+  <description>method</description>
+  <scope>source.io</scope>
+  <tabTrigger>m</tabTrigger>
+</snippet>

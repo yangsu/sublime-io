@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[bitwiseXor($0)]]></content>
+  <description>bitwiseXor</description>
+  <scope>source.io</scope>
+  <tabTrigger>bit</tabTrigger>
+</snippet>

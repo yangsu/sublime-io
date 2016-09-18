@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[while(${1:aCondition},
+	$0
+)]]></content>
+  <description>while</description>
+  <scope>source.io</scope>
+  <tabTrigger>while</tabTrigger>
+</snippet>

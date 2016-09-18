@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[prependProto(${1:SomeProto})]]></content>
+  <description>prependProto</description>
+  <scope>source.io</scope>
+  <tabTrigger>prependP</tabTrigger>
+</snippet>

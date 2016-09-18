@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[perform("${1:name}")]]></content>
+  <description>perform</description>
+  <scope>source.io</scope>
+  <tabTrigger>perf</tabTrigger>
+</snippet>

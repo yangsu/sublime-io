@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[removeProto]]></content>
+  <description>removeProto</description>
+  <scope>source.io</scope>
+  <tabTrigger>removeP</tabTrigger>
+</snippet>

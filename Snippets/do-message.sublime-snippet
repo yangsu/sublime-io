@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[doMessage(${1:msg})]]></content>
+  <description>doMessage</description>
+  <scope>source.io</scope>
+  <tabTrigger>doM</tabTrigger>
+</snippet>
