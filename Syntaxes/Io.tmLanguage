@@ -74,7 +74,7 @@
 				</dict>
 			</dict>
 			<key>end</key>
-			<string>(?!\G)</string>
+			<string>(?&lt;=$\n)(?&lt;!\\$\n)</string>
 			<key>patterns</key>
 			<array>
 				<dict>
